@@ -27,8 +27,7 @@
 [<img align="left" alt="React" width="36px" src="https://damienfremont.files.wordpress.com/2015/07/cucumber-logo.png?w=165" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="36px" src="https://miro.medium.com/max/404/1*mujOqlQ9k9Mhpj1PbxsSDQ.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="36px" src="https://cdn.springpeople.com/media/Rest%20Assured.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="36px" src="https://cdn.eventil.com/uploads/event/logo/6/java.webp" />][webdevplaylist]
-
+[<img align="left" alt="Node.js" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="36px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg" />][webdevplaylist]
 [<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" />][webdevplaylist]
