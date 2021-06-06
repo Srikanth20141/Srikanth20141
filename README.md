@@ -26,9 +26,9 @@
 [<img align="left" alt="JavaScript" width="36px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" />][jsplaylist]
 [<img align="left" alt="React" width="36px" src="https://damienfremont.files.wordpress.com/2015/07/cucumber-logo.png?w=165" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="36px" src="https://miro.medium.com/max/404/1*mujOqlQ9k9Mhpj1PbxsSDQ.png" />][webdevplaylist]
-
 [<img align="left" alt="GraphQL" width="36px" src="https://cdn.springpeople.com/media/Rest%20Assured.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="36px" src="https://cdn.eventil.com/uploads/event/logo/6/java.webp" />][webdevplaylist]
+
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
