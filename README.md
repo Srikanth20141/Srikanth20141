@@ -92,7 +92,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/srikanth20141
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCO8IHOeu8l86l5-MvNCIDpg
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/srikanth20141
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
