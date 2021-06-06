@@ -36,7 +36,7 @@
 <br />
 <br />
 [<img align="left" alt="GitHub" width="36px" src="https://www.intexsoft.com//media/k2/items/cache/b8cc41f2c23fcd5970f74c3c49efafec_L.jpg" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="36px" src="https://pbs.twimg.com/profile_images/721661302196842496/8mAJQD05_400x400.jpg" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="36px" src="https://jmeter.apache.org/images/jmeter_square.svg" />][webdevplaylist]
 
 
 <br />
