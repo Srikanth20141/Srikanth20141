@@ -19,13 +19,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/appium-logo-appium-installation-edureka.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://w7.pngwing.com/pngs/130/892/png-transparent-apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-miscellaneous-text-logo-thumbnail.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/851f88d6-fa67-406e-929f-bdc0bdae0ba6.png?auto=format&size=150" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="Selenium" width="36px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="36px" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/appium-logo-appium-installation-edureka.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="36px" src="https://w7.pngwing.com/pngs/130/892/png-transparent-apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-miscellaneous-text-logo-thumbnail.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="36px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/851f88d6-fa67-406e-929f-bdc0bdae0ba6.png?auto=format&size=150" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="36px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" />][jsplaylist]
+[<img align="left" alt="React" width="36px" src="https://damienfremont.files.wordpress.com/2015/07/cucumber-logo.png?w=165" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="36px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
